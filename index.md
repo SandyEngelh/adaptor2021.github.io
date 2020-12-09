@@ -1,1 +1,1 @@
-![alt text](resources/AdaptOR.png = 250x250)
+![alt text](resources/AdaptOR.png | width=50)

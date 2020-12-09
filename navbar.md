@@ -1,3 +1,0 @@
-'''
-* [Timeline](index.md)
-'''

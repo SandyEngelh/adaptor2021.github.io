@@ -1,2 +1,2 @@
-<a href="url"><img src="resources/AdaptOR.png" align="left" height="48" width="48" ></a>
+<a href="url"><img src="resources/AdaptOR.png" align="left" height="200" width="200" ></a>
 

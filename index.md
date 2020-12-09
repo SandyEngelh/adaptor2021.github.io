@@ -1,1 +1,2 @@
-![alt text](resources/AdaptOR.png | width=50)
+<a href="url"><img src="resources/AdaptOR.png" align="left" height="48" width="48" ></a>
+

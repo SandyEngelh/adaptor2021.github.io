@@ -1,10 +1,16 @@
 docs:
 
-- title: Introduction
+- title: Timeline
   url: https://jekyllrb.com/docs/step-by-step/05-includes/
 
-- title: Configuration
+- title: Dataset Info
   url: https://jekyllrb.com/docs/step-by-step/05-includes/
 
-- title: Deployment
+- title: Downloads
+  url: https://jekyllrb.com/docs/step-by-step/05-includes/
+
+- title: Team
+  url: https://jekyllrb.com/docs/step-by-step/05-includes/
+
+- title: Submission Details
   url: https://jekyllrb.com/docs/step-by-step/05-includes/
